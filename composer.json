@@ -1,5 +1,5 @@
 {
-  "name": "rmrevin/yii2-fontawesome",
+  "name": "teo_crm/yii2-fontawesome",
   "description": "Asset Bundle for Yii2 with Font Awesome",
   "keywords": [
     "yii",
@@ -12,14 +12,14 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "support": {
-    "issues": "https://github.com/rmrevin/yii2-fontawesome/issues",
-    "source": "https://github.com/rmrevin/yii2-fontawesome"
+    "issues": "https://github.com/Artem163397/yii2-fontawesome/issues",
+    "source": "https://github.com/Artem163397/yii2-fontawesome"
   },
   "authors": [
     {
-      "name": "Revin Roman",
-      "email": "roman@rmrevin.com",
-      "homepage": "https://rmrevin.com/"
+      "name": "Artem",
+      "email": "artem.kovalskiy.93@mail.ru",
+      "homepage": "http://shop-crm.ru/"
     }
   ],
   "require": {
@@ -29,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "rmrevin\\yii\\fontawesome\\": ""
+      "teo_crm\\yii\\fontawesome\\": ""
     }
   },
   "extra": {
