@@ -10,7 +10,7 @@
   ],
   "type": "yii2-extension",
   "license": "MIT",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "support": {
     "issues": "https://github.com/Artem163397/yii2-fontawesome/issues",
     "source": "https://github.com/Artem163397/yii2-fontawesome"
